@@ -2,9 +2,8 @@
   "name": "connect",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node app.ts"
   },
   "keywords": [],
   "author": "harry lachenmayer <harrylachenmayer@gmail.com>",
